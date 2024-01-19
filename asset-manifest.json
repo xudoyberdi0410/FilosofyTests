@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.dc4d6ff2.css",
-    "main.js": "/static/js/main.cebdb9e7.js",
-    "index.html": "/index.html",
-    "main.dc4d6ff2.css.map": "/static/css/main.dc4d6ff2.css.map",
-    "main.cebdb9e7.js.map": "/static/js/main.cebdb9e7.js.map"
+    "main.css": "/FilosofyTests.github.io/static/css/main.dc4d6ff2.css",
+    "main.js": "/FilosofyTests.github.io/static/js/main.cebdb9e7.js",
+    "index.html": "/FilosofyTests.github.io/index.html",
+    "main.dc4d6ff2.css.map": "/FilosofyTests.github.io/static/css/main.dc4d6ff2.css.map",
+    "main.cebdb9e7.js.map": "/FilosofyTests.github.io/static/js/main.cebdb9e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc4d6ff2.css",
-    "static/js/main.cebdb9e7.js"
+    "FilosofyTests.github.iostatic/css/main.dc4d6ff2.css",
+    "FilosofyTests.github.iostatic/js/main.cebdb9e7.js"
   ]
 }
